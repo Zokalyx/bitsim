@@ -1,0 +1,12 @@
+{
+  "name": "bitsim",
+  "version": "0.1.0",
+  "files": [
+    "bitsim_bg.wasm",
+    "bitsim.js",
+    "bitsim.d.ts"
+  ],
+  "module": "bitsim.js",
+  "types": "bitsim.d.ts",
+  "sideEffects": false
+}
