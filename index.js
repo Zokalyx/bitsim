@@ -1,5 +1,5 @@
-import init from './pkg/test_wasm.js';
-import { Library, Component } from "../pkg/bitsim.js";
+import init from './pkg/bitsim.js';
+import { Library, Component } from "./pkg/bitsim.js";
 
 function run() {
   console.log(Library.test())
