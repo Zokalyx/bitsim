@@ -1,4 +1,4 @@
-import { Library, Component } from "./pkg/bitsim";
+import { Library, Component } from "./pkg/bitsim.js";
 
 console.log(Library.test())
 
